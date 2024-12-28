@@ -1,0 +1,12 @@
+langchain
+python-dotenv
+langchain-groq
+langchain-core
+fastapi
+uvicorn
+langserve
+langchain_community
+langchain-chroma
+langchain_huggingface
+bs4
+pyPDF
